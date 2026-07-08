@@ -45,4 +45,4 @@
 
 
 
-                 A fully serverless feedback management application built on AWS using Amazon S3, CloudFront, API Gateway, Lambda, and DynamoDB.
+A fully serverless feedback management application built on AWS using Amazon S3, CloudFront, API Gateway, Lambda, and DynamoDB.
